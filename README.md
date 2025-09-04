@@ -1,7 +1,5 @@
 # SpaceFN Karabiner Configuration - Accessibility-Focused Layout
 
-## Why SpaceFN?
-
 Have you heard of those fancy ergonomic keyboards that let you create multiple layers? They usually have special keys that activate different layers, so you can access tons of functions without moving your hands much, which supposedly minimizes muscle strain.
 
 I had one of those too - a Dygma Raise. It's really good, but pricey as hell, and not exactly practical when you want to use it while traveling or lying in bed. That frustrated me, so I started researching how to add an extra layer to any keyboard through software. That's how I discovered SpaceFN.
